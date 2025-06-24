@@ -61,3 +61,6 @@ ps -eo pid,comm,%mem --sort=-%mem | head -n 6
 echo
 
 echo "====== END OF REPORT ======"
+
+# Project URL
+https://github.com/Johnterrie/server_stats
